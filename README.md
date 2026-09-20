@@ -30,3 +30,11 @@ The additional context could improve decision-making because contract value does
 The roster-fit enhancement should move forward because it connects financial efficiency with the practical needs of roster construction. Contract value can identify attractive players, while role compatibility gives decision makers more context when considering an acquisition.
 
 Feedback from the general manager and coaching staff would strongly influence the integration decision. Scouts could provide additional information about whether the statistical profile accurately represents a player's expected role. Decision makers could request changes if the prototype places too much emphasis on statistical value without adequately accounting for team fit.
+
+## Reflection on Innovation and Version Control
+
+GitHub branches give analytics teams a controlled environment for experimenting with new ideas without changing the primary version of a project. An analyst can develop an enhancement on a separate branch while preserving the existing concept on the main branch. This structure lowers the organizational risk associated with experimentation because the team can evaluate an idea before deciding whether it deserves integration.
+
+GitHub can also help analytics ideas gain traction with decision makers because it creates a visible history of changes and evaluation. Decision makers can review how an idea developed and understand why the analytics team adopted a particular enhancement. Commit history provides evidence that the team refined the concept through deliberate evaluation instead of treating the original idea as a finished solution.
+
+The workflow reflects the Chapter 7 innovation framework because the project progresses from a creative idea into a prototype that decision makers can evaluate. Engagement determines whether the enhancement provides enough value to justify adoption. The final merge represents the build decision because the organization accepts the evaluated improvement as part of the primary project.
